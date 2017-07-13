@@ -29,7 +29,7 @@
     background-color:#ffffff;
     color:black;
     text-align:left;
-    padding:0 5%;
+    padding:0 25%;
 }
 
 /* White Body
@@ -44,8 +44,8 @@
 /* Grey Body
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .bodygrey {
-    background-color:#e6e6e6;
-    color:black;
+    background-color:#FF6A13;
+    color:white;
     text-align:left;
     padding:5%;
 }
@@ -63,10 +63,26 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .TextWrap {
     Float:right;
-    margin 10px;
+    margin: 10px;
 }
 
 .TextWrapLeft {
     Float:left;
     margin:10px
+}
+
+.svg-container { 
+	display: inline-block;
+	position: center;
+	vertical-align: middle; 
+	width: 100%;
+	overflow: hidden; 
+}
+
+.svg-content { 
+	display: inline-block;
+	position: center;
+	width: 100%;
+	top: 0;
+	left: 0;
 }

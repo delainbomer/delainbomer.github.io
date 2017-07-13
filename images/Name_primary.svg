@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   height="53.689999"
+   width="172.67"
+   id="svg50"
+   version="1.1"
+   viewBox="0 0 172.67 53.689996">
+  <metadata
+     id="metadata54">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Name</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{font-size:12px;fill:#231f20;font-family:GillSansMT, Gill Sans MT;}.cls-2{letter-spacing:-0.1em;}.cls-3{letter-spacing:0.02em;}.cls-4{font-size:24px;fill:#e76425;font-family:GillSansMT-Bold, Gill Sans MT;font-weight:700;letter-spacing:0.38em;}.cls-5{letter-spacing:0.45em;}.cls-6{letter-spacing:0.43em;}.cls-7{letter-spacing:0.38em;}.cls-8{fill:#636466;letter-spacing:0.09em;}.cls-9{letter-spacing:0.1em;}.cls-10{letter-spacing:0.11em;}.cls-11{letter-spacing:0.11em;}.cls-12{letter-spacing:0.1em;}</style>
+    <clipPath
+       id="clipPath4545"
+       clipPathUnits="userSpaceOnUse">
+      <use
+         height="100%"
+         width="100%"
+         id="use4547"
+         xlink:href="#g4541"
+         y="0"
+         x="0" />
+    </clipPath>
+  </defs>
+  <title
+     id="title6">Name</title>
+  <g
+     transform="translate(0,-0.27207346)"
+     data-name="Layer 2"
+     id="Layer_2">
+    <text
+       y="61.200001"
+       x="39.779999"
+       class="cls-1"
+       id="text14"
+       style="font-size:12px;font-family:GillSansMT, 'Gill Sans MT';fill:#231f20" />
+    <g
+       id="g4541" />
+    <text
+       y="61.200001"
+       x="119.11"
+       class="cls-1"
+       id="text24"
+       style="font-size:12px;font-family:GillSansMT, 'Gill Sans MT';fill:#231f20" />
+    <text
+       y="20.588165"
+       x="-1.5289251"
+       class="cls-4"
+       id="text46"
+       style="font-weight:700;font-size:28.74483871px;font-family:GillSansMT-Bold, 'Gill Sans MT';letter-spacing:0.38em;fill:#e76425;stroke-width:1.19770169">D<tspan
+   class="cls-5"
+   x="32.401958"
+   y="20.588165"
+   id="tspan28"
+   style="letter-spacing:0.44999999em;stroke-width:1.19770169">E</tspan>
+<tspan
+   class="cls-6"
+   x="63.590103"
+   y="20.588165"
+   id="tspan30"
+   style="letter-spacing:0.43000001em;stroke-width:1.19770169">LAI</tspan>
+<tspan
+   class="cls-7"
+   x="149.93242"
+   y="20.588165"
+   id="tspan32"
+   style="letter-spacing:0.38em;stroke-width:1.19770169">N</tspan>
+<tspan
+   class="cls-8"
+   id="tspan44"
+   style="letter-spacing:0.09em;fill:#636466;stroke-width:1.19770169">
+  <tspan
+     style="stroke-width:1.19770169"
+     x="26.14996"
+     y="52.926105"
+     id="tspan34">B</tspan>
+  <tspan
+     class="cls-9"
+     x="48.750591"
+     y="52.926105"
+     id="tspan36"
+     style="letter-spacing:0.1em;stroke-width:1.19770169">O</tspan>
+  <tspan
+     class="cls-10"
+     x="76.896584"
+     y="52.926105"
+     id="tspan38"
+     style="letter-spacing:0.11em;stroke-width:1.19770169">M</tspan>
+  <tspan
+     class="cls-11"
+     x="105.53362"
+     y="52.926105"
+     id="tspan40"
+     style="letter-spacing:0.11em;stroke-width:1.19770169">E</tspan>
+  <tspan
+     class="cls-12"
+     x="127.0683"
+     y="52.926105"
+     id="tspan42"
+     style="letter-spacing:0.1em;stroke-width:1.19770169">R</tspan>
+</tspan>
+</text>
+  </g>
+</svg>
